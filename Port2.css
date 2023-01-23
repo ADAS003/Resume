@@ -1,0 +1,60 @@
+.left {
+    width:50%;
+    height:3700px;
+    padding-top: 1px;
+    background-color: white;
+    justify-content: center;
+    word-wrap: break-word;
+    float: left;
+}
+.Name {
+    height: 300px;
+    width: 600px;
+    font-size: 22px;
+    text-align: center;
+
+}
+.About {
+    height: 300px;
+    width: 600px;
+    
+}
+.Skills {
+    height: 400px;
+    width: 600px;
+}
+.Work {
+    height: 300px;
+    width: 600px;
+}
+.Education {
+    height: 300px;
+    width: 600px;
+}
+.Key {
+    height: 250px;
+    width: 600px;
+}
+.Contact {
+    height: 250px;
+    width: 600px;
+}
+.right{
+    width:50%;
+    height: 3700px;
+    padding-top: 1px;
+    background-color: rgb(148, 187, 168);
+    justify-content: center;
+    word-wrap: break-word;
+    float: right;
+}
+.right img{
+    margin-left: 275px;
+    margin-top: 150px;
+    position: fixed;
+}
+.Head nav {
+    float: right;
+    margin-right: 53%;
+    text-decoration: none;
+}
